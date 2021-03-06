@@ -1,0 +1,1 @@
+copy  intermediate.key.pem+intermediate.cert.pem intermediate.pem
